@@ -1,0 +1,45 @@
+.card {
+    width: 330px;
+    height: 150px;
+    height: fit-content; 
+    margin-top: 5px;
+    background-color: #ffef93; 
+    border: 1.5px solid black; 
+    border-radius: 5px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.text {
+    font-family: monospace;
+}
+
+.title {
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: small;
+    margin-left: 5px;
+}
+
+span {
+    color: lightsalmon;
+}
+
+p {
+    font-family: monospace;
+    font-size: xx-small;
+    margin-left: 5px;
+}
+
+i {
+    color: lightslategray;
+}
